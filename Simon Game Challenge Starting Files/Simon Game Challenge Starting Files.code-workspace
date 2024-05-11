@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Simon Game Challenge Step 5 Answer"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Simon Game Challenge Starting Files"
+	}
+}
